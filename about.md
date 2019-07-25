@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A hard-working Master's candidate with Medicial background stepping into the data science universe.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Mailme<3](mailto:mengyaojia120@gmail.com)
